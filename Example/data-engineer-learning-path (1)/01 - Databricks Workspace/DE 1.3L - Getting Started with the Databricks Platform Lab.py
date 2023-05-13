@@ -134,6 +134,13 @@ display(example_df)
 
 # COMMAND ----------
 
+# MAGIC %md ## This is a Header
+# MAGIC - bullet 1
+# MAGIC - bullet 2
+# MAGIC - [link]("http://doc.databricks.com")
+
+# COMMAND ----------
+
 # MAGIC %md
 # MAGIC
 # MAGIC ## Run a SQL cell
